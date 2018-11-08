@@ -19,7 +19,7 @@ public class Driver {
 
 			int rank, i = 0;
 			
-			System.out.println("Boy and Girl names: ");
+			System.out.println("Boy and Girl 99999 names: ");
 			
 			while(in.hasNext()) {
 				rank = in.nextInt();
